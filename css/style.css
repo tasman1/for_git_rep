@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+@font-face {
+    font-family: 'montserrat';
+    src: url('../fonts/montserrat-extralight.ttf');
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: 'montserrat';
+    src: url('../fonts/montserrat-light.ttf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'montserrat';
+    src: url('../fonts/montserrat-regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'roboto';
+    src: url('../fonts/roboto-regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'raleway';
+    src: url('../fonts/raleway-regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'raleway';
+    src: url('../fonts/raleway-medium.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'raleway';
+    src: url('../fonts/raleway-semibold.ttf');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'raleway';
+    src: url('../fonts/raleway-bold.ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'raleway';
+    src: url('../fonts/raleway-extrabold.ttf');
+    font-weight: 800;
+}
+
+p {
+    font-family: montserrat;
+    color: red;
+    font-weight: 200;
+}
